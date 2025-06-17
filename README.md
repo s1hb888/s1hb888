@@ -90,14 +90,6 @@
 
 ---
 
-### 🌟 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?user=s1hb888&theme=tokyo-night" alt="Contribution Graph" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
