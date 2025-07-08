@@ -61,8 +61,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" />
-  <img src="https://seeklogo.com/images/M/mongodb-compass-logo-A4DB8B8B0E-seeklogo.com.png" alt="MongoDB Compass" width="45" height="45" />
-  <img src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" alt="Jira" width="45" height="45" />
+  <img src="https://img.shields.io/badge/MongoDB%20Compass-Used-brightgreen?logo=mongodb&logoColor=white&style=flat" alt="MongoDB Compass Badge" />
+  <img src="https://img.shields.io/badge/Jira-Used-blue?logo=jira&logoColor=white&style=flat" alt="Jira Badge" />
 </p>
 
 ---
