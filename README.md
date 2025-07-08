@@ -15,29 +15,54 @@
 
 ### 👤 About Me
 
-- 💡 I enjoy turning ideas into real-world applications  
-- 📚 Constantly learning and improving my tech skills  
-- 🤝 Open to collaborating on meaningful open-source projects  
-- 🛠 Exploring the MERN stack, APIs, and UI/UX enhancements  
+- I enjoy turning ideas into real-world applications  
+- Constantly learning and improving my tech skills  
+- Open to collaborating on meaningful open-source projects  
+- Currently exploring the MERN stack, APIs, and UI/UX enhancements  
 - 📫 Reach me at: **hudabibi888@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Languages
 
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="45" height="45" title="Also React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
+</p>
+
+---
+
+### 🧩 Frameworks & Libraries
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React / React Native" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" />
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" />
+  <img src="https://seeklogo.com/images/M/mongodb-compass-logo-A4DB8B8B0E-seeklogo.com.png" alt="MongoDB Compass" width="45" height="45" />
+  <img src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" alt="Jira" width="45" height="45" />
 </p>
 
 ---
@@ -46,16 +71,16 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=s1hb888&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1hb888&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s1hb888&show_icons=true&count_private=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1hb888&layout=compact&theme=default&hide_border=true" width="48%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=s1hb888&theme=tokyonight&hide_border=true" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=s1hb888&theme=default&hide_border=true" width="90%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=s1hb888&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=s1hb888&theme=github-light&hide_border=true" width="100%" />
 
 </div>
 
@@ -72,8 +97,3 @@
   </a>
 </p>
 
----
-
-<p align="center" style="font-style:italic; color:gray;">
-  "Code is like humor. When you have to explain it, it’s bad." — Cory House
-</p>
