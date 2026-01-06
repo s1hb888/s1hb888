@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a passionate developer dedicated to turning innovative
 ### 🌟 What I'm Excited About:
 - Building modern, responsive web applications with **MERN Stack**
 - Creating seamless user experiences with **React.js** and **Next.js**
-- Developing robust backend systems with **Node.js** and **PHP/Laravel**
+- Developing robust backend systems with **Node.js** and **Express.js**
 - Contributing to open-source projects and collaborating with the developer community
 
 ### 🚀 Current Focus:
@@ -41,8 +41,8 @@ Welcome to my GitHub! I'm a passionate developer dedicated to turning innovative
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,106 +50,128 @@ Welcome to my GitHub! I'm a passionate developer dedicated to turning innovative
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Featured Projects
+## 📂 My Repositories
+
+<!-- 
+HOW TO UPDATE THIS SECTION:
+1. Go to: https://github.com/s1hb888?tab=repositories
+2. Copy your repository names and URLs
+3. Replace the examples below with your actual repos
+4. Update descriptions to match your projects
+-->
+
+<div align="center">
+
+### 🌟 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🚀 Full-Stack MERN Application
-![MERN Stack](./project-mern.png)
-
-A comprehensive web application featuring:
-- 🔐 User authentication & authorization
-- ⚡ Real-time data updates
-- 📱 Fully responsive design
-- 🎨 Modern UI/UX
-
-**Tech:** React • Node.js • Express • MongoDB
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/s1hb888)
-
+<td width="50%">
+<h3 align="center">Repository Name 1</h3>
+<div align="center">
+<a href="https://github.com/s1hb888/REPO-NAME-1" target="_blank">
+<img src="./project-mern.png" width="100%" alt="Project 1"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/s1hb888/REPO-NAME-1" target="_blank">
+<img src="https://img.shields.io/badge/Code-View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+<p><strong>JavaScript, React, Node.js</strong> - Brief description of what this project does</p>
+</div>
 </td>
-<td width="50%" valign="top">
 
-### 🌐 E-Commerce Platform
-![E-Commerce](./project-ecommerce.png)
-
-Modern e-commerce solution with:
-- 💳 Payment gateway integration
-- 📦 Product management system
-- 🛒 Shopping cart functionality
-- 📊 Admin dashboard
-
-**Tech:** React • Laravel • MySQL • Stripe
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/s1hb888)
-
+<td width="50%">
+<h3 align="center">Repository Name 2</h3>
+<div align="center">
+<a href="https://github.com/s1hb888/REPO-NAME-2" target="_blank">
+<img src="./project-ecommerce.png" width="100%" alt="Project 2"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/s1hb888/REPO-NAME-2" target="_blank">
+<img src="https://img.shields.io/badge/Code-View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+<p><strong>React, Express, MongoDB</strong> - Brief description of what this project does</p>
+</div>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-### 📱 Responsive Web Design
-![Responsive Design](./project-responsive.png)
-
-Beautiful mobile-first interfaces:
-- 🎨 Custom design systems
-- 📐 Modern layouts
-- ✨ Smooth animations
-- 🌓 Dark/Light mode
-
-**Tech:** HTML5 • CSS3 • JavaScript • Tailwind
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/s1hb888)
-
+<td width="50%">
+<h3 align="center">Repository Name 3</h3>
+<div align="center">
+<a href="https://github.com/s1hb888/REPO-NAME-3" target="_blank">
+<img src="./project-responsive.png" width="100%" alt="Project 3"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/s1hb888/REPO-NAME-3" target="_blank">
+<img src="https://img.shields.io/badge/Code-View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+<p><strong>HTML, CSS, JavaScript</strong> - Brief description of what this project does</p>
+</div>
 </td>
-<td width="50%" valign="top">
 
-### 🔧 RESTful API Service
-![API Development](./project-api.png)
-
-Robust API architecture:
-- 🔒 JWT authentication
-- 📝 API documentation
-- ⚡ Optimized performance
-- 🛡️ Error handling
-
-**Tech:** Node.js • Express • MongoDB • Swagger
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/s1hb888)
-
+<td width="50%">
+<h3 align="center">Repository Name 4</h3>
+<div align="center">
+<a href="https://github.com/s1hb888/REPO-NAME-4" target="_blank">
+<img src="./project-api.png" width="100%" alt="Project 4"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/s1hb888/REPO-NAME-4" target="_blank">
+<img src="https://img.shields.io/badge/Code-View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+<p><strong>Node.js, Express, API</strong> - Brief description of what this project does</p>
+</div>
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 📂 Repository Categories
+### 📚 All Repositories
 
 <div align="center">
 
-### Frontend Projects
-[![React Apps](https://img.shields.io/badge/React_Applications-5_Repos-61DAFB?style=for-the-badge&logo=react)](https://github.com/s1hb888?tab=repositories)
-[![Next.js Projects](https://img.shields.io/badge/Next.js_Projects-3_Repos-000000?style=for-the-badge&logo=nextdotjs)](https://github.com/s1hb888?tab=repositories)
-[![UI Components](https://img.shields.io/badge/UI_Components-4_Repos-38B2AC?style=for-the-badge&logo=tailwindcss)](https://github.com/s1hb888?tab=repositories)
+<!--
+INSTRUCTIONS: Replace these with your actual repository names and links
+Visit: https://github.com/s1hb888?tab=repositories
+-->
 
-### Backend Projects
-[![Node.js APIs](https://img.shields.io/badge/Node.js_APIs-6_Repos-339933?style=for-the-badge&logo=nodedotjs)](https://github.com/s1hb888?tab=repositories)
-[![Laravel Apps](https://img.shields.io/badge/Laravel_Apps-4_Repos-FF2D20?style=for-the-badge&logo=laravel)](https://github.com/s1hb888?tab=repositories)
-[![Microservices](https://img.shields.io/badge/Microservices-2_Repos-000000?style=for-the-badge&logo=express)](https://github.com/s1hb888?tab=repositories)
+| Repository | Description | Language | Link |
+|------------|-------------|----------|------|
+| **repo-name-1** | Description of project | JavaScript | [View →](https://github.com/s1hb888/repo-1) |
+| **repo-name-2** | Description of project | React | [View →](https://github.com/s1hb888/repo-2) |
+| **repo-name-3** | Description of project | Node.js | [View →](https://github.com/s1hb888/repo-3) |
+| **repo-name-4** | Description of project | HTML/CSS | [View →](https://github.com/s1hb888/repo-4) |
+| **repo-name-5** | Description of project | JavaScript | [View →](https://github.com/s1hb888/repo-5) |
+| **repo-name-6** | Description of project | PHP | [View →](https://github.com/s1hb888/repo-6) |
+| **repo-name-7** | Description of project | C++ | [View →](https://github.com/s1hb888/repo-7) |
+| **repo-name-8** | Description of project | Java | [View →](https://github.com/s1hb888/repo-8) |
 
-### Full-Stack Projects
-[![MERN Stack](https://img.shields.io/badge/MERN_Stack-8_Repos-47A248?style=for-the-badge&logo=mongodb)](https://github.com/s1hb888?tab=repositories)
-[![E-Commerce](https://img.shields.io/badge/E--Commerce-3_Repos-4285F4?style=for-the-badge&logo=googlechrome)](https://github.com/s1hb888?tab=repositories)
-[![CMS Systems](https://img.shields.io/badge/CMS_Systems-2_Repos-FF6B6B?style=for-the-badge&logo=wordpress)](https://github.com/s1hb888?tab=repositories)
+<p>
+<a href="https://github.com/s1hb888?tab=repositories" target="_blank">
+<img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
@@ -161,6 +183,15 @@ Robust API architecture:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s1hb888&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1hb888&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
+
+---
+
+## 💡 Design Philosophy
+
+<p align="center">
+  <i>"I believe in writing clean, maintainable code that not only works but is also elegant and efficient.<br>
+  Every project is an opportunity to learn something new and push the boundaries of what's possible."</i>
+</p>
 
 ---
 
