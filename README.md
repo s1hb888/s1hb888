@@ -1,87 +1,144 @@
-<div align="center">
+<!--Banner-->
+![Hudda Bibi Banner Image](./github-header-image.png)
 
-# 👋 Hello, I'm Hudda Bibi
-
-### Passionate Developer | Web Technologies Enthusiast | Open Source Contributor
-
-[![Profile Views](https://komarev.com/ghpvc/?username=s1hb888&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/s1hb888)
-[![GitHub Followers](https://img.shields.io/github/followers/s1hb888?label=Followers&style=social)](https://github.com/s1hb888?tab=followers)
-[![Email](https://img.shields.io/badge/Email-hudabibi888@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hudabibi888@gmail.com)
-
-</div>
+<!--Header Name-->
+# Hi, I'm Hudda Bibi! 👋  
+*Passionate Developer | Web Technologies Enthusiast | Open Source Contributor*
 
 ---
 
-## 🚀 About Me
+<!--Animated Skills Image-->
+<img align="right" style="margin-left: 50px; margin-top: 20px;" width="40%" src="./coding-animation.gif" alt="Coding Animation">
 
-```typescript
-const huddaBibi = {
-    role: "Passionate Full-Stack Developer",
-    interests: ["Web Technologies", "Open Source", "Innovation"],
-    currentFocus: ["MERN Stack", "APIs", "UI/UX Enhancements"],
-    learning: ["Advanced Web Technologies", "Cloud Solutions", "Modern Frameworks"],
-    email: "hudabibi888@gmail.com",
-    motto: "Turning ideas into real-world applications"
-};
-```
-
-I enjoy turning ideas into real-world applications and constantly learning to improve my tech skills. I'm passionate about web technologies and open to collaborating on meaningful open-source projects.
-
-### 🎯 What I'm Working On
-
-- 🌱 Exploring the MERN stack and building full-stack applications
-- 🔨 Working with APIs and modern web frameworks
-- 🎨 Enhancing UI/UX design skills
-- 🤝 Looking for opportunities to contribute to open-source projects
-- 💡 Building innovative solutions with modern web technologies
-
----
-## 💻 Tech Stack
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,cpp,java,html,css,python" alt="Languages" />
+<!--Start Intro-->
+<p align="left">
+  Welcome to my GitHub! I'm a passionate developer dedicated to turning innovative ideas into real-world applications. I constantly strive to improve my technical skills and create meaningful solutions through code.
 </p>
 
-### Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,express,nextjs,tailwind" alt="Frameworks" />
-</p>
+### 🌟 What I'm Excited About:
+- Building modern, responsive web applications with **MERN Stack**
+- Creating seamless user experiences with **React.js** and **Next.js**
+- Developing robust backend systems with **Node.js** and **PHP/Laravel**
+- Contributing to open-source projects and collaborating with the developer community
 
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
-</p>
+### 🚀 Current Focus:
+- Mastering the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- Exploring **API development** and integration
+- Enhancing **UI/UX design** skills
+- Building scalable and performant applications
 
-### Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,linux,docker" alt="Tools" />
-</p>
+### 🛠 Tech Stack:
 
-<div align="center">
+**Frontend Development:**
+- React.js, Next.js, JavaScript (ES6+)
+- HTML5, CSS3, Bootstrap, Tailwind CSS
+- Responsive Web Design
 
-![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-Used-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-Used-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-Used-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Backend Development:**
+- Node.js, Express.js
+- PHP, Laravel
+- RESTful API Design
 
-</div>
+**Database:**
+- MongoDB, MySQL, PostgreSQL
+
+**Tools & Platforms:**
+- Git, GitHub, VS Code
+- MongoDB Compass, Postman
+- Jira, Bash/Terminal
+- Linux, Docker
 
 ---
 
-## 📊 GitHub Statistics
+## 🎨 Design Philosophy
+
+<p align="center">
+  <img src="./developer-workspace.gif" alt="Developer Workspace" width="60%">
+</p>
+
+I believe in writing clean, maintainable code that not only works but is also elegant and efficient. Every project is an opportunity to learn something new and push the boundaries of what's possible.
+
+---
+
+## 📽️ Featured Project Demo
+
+[![Watch the Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/dQw4w9WgXcQ)
+
+*Click to watch a demonstration of my latest project*
+
+---
+
+## 💼 Project Highlights
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 Full-Stack Web Application</h3>
+      <p align="center">
+        <img src="https://via.placeholder.com/400x250/4285F4/FFFFFF?text=MERN+Stack+Project" alt="Project 1"/>
+      </p>
+      <p align="center">
+        A comprehensive web application built with React, Node.js, Express, and MongoDB featuring user authentication, real-time updates, and responsive design.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 E-Commerce Platform</h3>
+      <p align="center">
+        <img src="https://via.placeholder.com/400x250/34A853/FFFFFF?text=E-Commerce+Solution" alt="Project 2"/>
+      </p>
+      <p align="center">
+        Modern e-commerce solution with payment integration, product management, and an intuitive shopping experience.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📱 Mobile-Responsive UI</h3>
+      <p align="center">
+        <img src="https://via.placeholder.com/400x250/FBBC04/FFFFFF?text=Responsive+Design" alt="Project 3"/>
+      </p>
+      <p align="center">
+        Beautiful, mobile-first interfaces that provide seamless experiences across all devices and screen sizes.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔧 API Development</h3>
+      <p align="center">
+        <img src="https://via.placeholder.com/400x250/EA4335/FFFFFF?text=RESTful+API" alt="Project 4"/>
+      </p>
+      <p align="center">
+        Robust RESTful APIs with proper authentication, error handling, and comprehensive documentation.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats and Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s1hb888&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=s1hb888&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C3D1D9" width="49%" alt="GitHub Streak" />
+  
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s1hb888&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1hb888&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1hb888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&langs_count=8" width="49%" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s1hb888&theme=tokyonight&utcOffset=5" width="49%" alt="Productive Time" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1hb888&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s1hb888&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C3D1D9" width="98%" alt="Contribution Graph" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s1hb888&theme=redical&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
+
 </div>
 
 ---
@@ -89,59 +146,136 @@ I enjoy turning ideas into real-world applications and constantly learning to im
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=s1hb888&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=s1hb888&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🔥 Recent Activity
+## 💻 Contribution Snake
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/s1hb888/s1hb888/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 ---
 
-## 💼 Featured Projects
+## 📈 Coding Activity
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1hb888&theme=radical" alt="Profile Summary" />
+</div>
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🚀 **Project One** | Your featured project description | React, Node.js, MongoDB |
-| 🌐 **Project Two** | Your featured project description | PHP, MySQL, Bootstrap |
-| 💡 **Project Three** | Your featured project description | JavaScript, Express, APIs |
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s1hb888&theme=radical&utcOffset=5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s1hb888&theme=radical" alt="Repos Per Language" />
+</div>
+
+---
+
+## 🎯 Skills Visualization
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,php,laravel,html,css,bootstrap,tailwind,git,github,vscode,linux,docker,postman&perline=9" alt="Skills" />
+</p>
+
+---
+
+## 💡 Quote of the Day
+
+<div align="center">
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+
+---
+
+## 🤝 Let's Connect and Collaborate!
+
+<div align="center">
+  
+  <a href="mailto:hudabibi888@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hudabibi888@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <a href="https://github.com/s1hb888" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-s1hb888-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/hudda-bibi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://twitter.com/s1hb888" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  
+  <a href="https://dev.to/s1hb888" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Open to Opportunities
+
+<p align="center">
+  <img src="./collaboration.gif" alt="Collaboration" width="50%">
+</p>
+
+I'm always open to:
+- 🤝 Collaborating on innovative open-source projects
+- 💼 Freelance opportunities and interesting projects
+- 🎓 Mentoring and learning from fellow developers
+- 🌟 Contributing to meaningful software solutions
+
+**Feel free to reach out at: [hudabibi888@gmail.com](mailto:hudabibi888@gmail.com)**
+
+---
+
+## 🌟 Profile Views
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-hudabibi888@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hudabibi888@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-s1hb888-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s1hb888)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=s1hb888&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+  
+  ![Followers](https://img.shields.io/github/followers/s1hb888?label=Followers&style=for-the-badge&color=blue)
+  
+  ![Stars](https://img.shields.io/github/stars/s1hb888?label=Total%20Stars&style=for-the-badge&color=yellow)
 
 </div>
 
 ---
 
+## 🎵 Currently Listening To
+
 <div align="center">
+  
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
 
-### 💭 Developer Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎵 Coding Vibes
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false)
+</div>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descAlignY=85&descAlign=50)
+### 🌟 Thank You for Visiting!
 
-**⭐ From [s1hb888](https://github.com/s1hb888) with ❤️**
+<p align="center">
+  <img src="./thank-you.gif" alt="Thank You" width="40%">
+</p>
 
+<p align="center">
+  <i>⭐️ If you like my work, consider giving my repositories a star! ⭐️</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=24&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descAlignY=88&descAlign=50" width="100%"/>
+</p>
+
+---
+
+<div align="center">
+  <i>Made with ❤️ by Hudda Bibi</i>
+  <br>
+  <i>Last Updated: January 2026</i>
 </div>
