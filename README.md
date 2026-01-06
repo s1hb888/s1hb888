@@ -67,7 +67,7 @@ Welcome to my GitHub! I'm a passionate developer dedicated to turning innovative
 <h3 align="center">PrepPal Admin Portal</h3>
 <div align="center">
 <a href="https://github.com/s1hb888/admin-portal" target="_blank">
-<img src="./project-mern.png" width="100%" alt="PrepPal Admin Dashboard"/>
+<img src="./PrepPal Admin Portal.png" width="100%" alt="PrepPal Admin Dashboard"/>
 </a>
 <br>
 <br>
