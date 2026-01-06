@@ -60,14 +60,6 @@ I believe in writing clean, maintainable code that not only works but is also el
 
 ---
 
-## 📽️ Featured Project Demo
-
-[![Watch the Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/dQw4w9WgXcQ)
-
-*Click to watch a demonstration of my latest project*
-
----
-
 ## 💼 Project Highlights
 
 <table>
