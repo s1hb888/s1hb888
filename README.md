@@ -1,19 +1,14 @@
 <!--Banner-->
 ![Hudda Bibi Banner Image](./github-header-image.png)
 
-<!--Header Name-->
 # Hi, I'm Hudda Bibi! 👋  
-*Passionate Developer | Web Technologies Enthusiast | Open Source Contributor*
+**Passionate Developer | Web Technologies Enthusiast | Open Source Contributor**
 
 ---
 
-<!--Animated Skills Image-->
-<img align="right" style="margin-left: 50px; margin-top: 20px;" width="40%" src="./coding-animation.gif" alt="Coding Animation">
+## 👨‍💻 About Me
 
-<!--Start Intro-->
-<p align="left">
-  Welcome to my GitHub! I'm a passionate developer dedicated to turning innovative ideas into real-world applications. I constantly strive to improve my technical skills and create meaningful solutions through code.
-</p>
+Welcome to my GitHub! I'm a passionate developer dedicated to turning innovative ideas into real-world applications. I constantly strive to improve my technical skills and create meaningful solutions through code.
 
 ### 🌟 What I'm Excited About:
 - Building modern, responsive web applications with **MERN Stack**
@@ -27,162 +22,149 @@
 - Enhancing **UI/UX design** skills
 - Building scalable and performant applications
 
-### 🛠 Tech Stack:
+---
 
-**Frontend Development:**
-- React.js, Next.js, JavaScript (ES6+)
-- HTML5, CSS3, Bootstrap, Tailwind CSS
-- Responsive Web Design
+## 🛠️ Technical Skills
 
-**Backend Development:**
-- Node.js, Express.js
-- PHP, Laravel
-- RESTful API Design
+<div align="center">
 
-**Database:**
-- MongoDB, MySQL, PostgreSQL
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools & Platforms:**
-- Git, GitHub, VS Code
-- MongoDB Compass, Postman
-- Jira, Bash/Terminal
-- Linux, Docker
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-## 🎨 Design Philosophy
-
-<p align="center">
-  <img src="./developer-workspace.gif" alt="Developer Workspace" width="60%">
-</p>
-
-I believe in writing clean, maintainable code that not only works but is also elegant and efficient. Every project is an opportunity to learn something new and push the boundaries of what's possible.
-
----
-
-## 💼 Project Highlights
+## 💼 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 Full-Stack Web Application</h3>
-      <p align="center">
-        <img src="https://via.placeholder.com/400x250/4285F4/FFFFFF?text=MERN+Stack+Project" alt="Project 1"/>
-      </p>
-      <p align="center">
-        A comprehensive web application built with React, Node.js, Express, and MongoDB featuring user authentication, real-time updates, and responsive design.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 E-Commerce Platform</h3>
-      <p align="center">
-        <img src="https://via.placeholder.com/400x250/34A853/FFFFFF?text=E-Commerce+Solution" alt="Project 2"/>
-      </p>
-      <p align="center">
-        Modern e-commerce solution with payment integration, product management, and an intuitive shopping experience.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📱 Mobile-Responsive UI</h3>
-      <p align="center">
-        <img src="https://via.placeholder.com/400x250/FBBC04/FFFFFF?text=Responsive+Design" alt="Project 3"/>
-      </p>
-      <p align="center">
-        Beautiful, mobile-first interfaces that provide seamless experiences across all devices and screen sizes.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔧 API Development</h3>
-      <p align="center">
-        <img src="https://via.placeholder.com/400x250/EA4335/FFFFFF?text=RESTful+API" alt="Project 4"/>
-      </p>
-      <p align="center">
-        Robust RESTful APIs with proper authentication, error handling, and comprehensive documentation.
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Full-Stack MERN Application
+![MERN Stack](./project-mern.png)
+
+A comprehensive web application featuring:
+- 🔐 User authentication & authorization
+- ⚡ Real-time data updates
+- 📱 Fully responsive design
+- 🎨 Modern UI/UX
+
+**Tech:** React • Node.js • Express • MongoDB
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/s1hb888)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 E-Commerce Platform
+![E-Commerce](./project-ecommerce.png)
+
+Modern e-commerce solution with:
+- 💳 Payment gateway integration
+- 📦 Product management system
+- 🛒 Shopping cart functionality
+- 📊 Admin dashboard
+
+**Tech:** React • Laravel • MySQL • Stripe
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/s1hb888)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Responsive Web Design
+![Responsive Design](./project-responsive.png)
+
+Beautiful mobile-first interfaces:
+- 🎨 Custom design systems
+- 📐 Modern layouts
+- ✨ Smooth animations
+- 🌓 Dark/Light mode
+
+**Tech:** HTML5 • CSS3 • JavaScript • Tailwind
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/s1hb888)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 RESTful API Service
+![API Development](./project-api.png)
+
+Robust API architecture:
+- 🔒 JWT authentication
+- 📝 API documentation
+- ⚡ Optimized performance
+- 🛡️ Error handling
+
+**Tech:** Node.js • Express • MongoDB • Swagger
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/s1hb888)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats and Activity
+## 📂 Repository Categories
 
 <div align="center">
-  
-  <!-- GitHub Stats -->
+
+### Frontend Projects
+[![React Apps](https://img.shields.io/badge/React_Applications-5_Repos-61DAFB?style=for-the-badge&logo=react)](https://github.com/s1hb888?tab=repositories)
+[![Next.js Projects](https://img.shields.io/badge/Next.js_Projects-3_Repos-000000?style=for-the-badge&logo=nextdotjs)](https://github.com/s1hb888?tab=repositories)
+[![UI Components](https://img.shields.io/badge/UI_Components-4_Repos-38B2AC?style=for-the-badge&logo=tailwindcss)](https://github.com/s1hb888?tab=repositories)
+
+### Backend Projects
+[![Node.js APIs](https://img.shields.io/badge/Node.js_APIs-6_Repos-339933?style=for-the-badge&logo=nodedotjs)](https://github.com/s1hb888?tab=repositories)
+[![Laravel Apps](https://img.shields.io/badge/Laravel_Apps-4_Repos-FF2D20?style=for-the-badge&logo=laravel)](https://github.com/s1hb888?tab=repositories)
+[![Microservices](https://img.shields.io/badge/Microservices-2_Repos-000000?style=for-the-badge&logo=express)](https://github.com/s1hb888?tab=repositories)
+
+### Full-Stack Projects
+[![MERN Stack](https://img.shields.io/badge/MERN_Stack-8_Repos-47A248?style=for-the-badge&logo=mongodb)](https://github.com/s1hb888?tab=repositories)
+[![E-Commerce](https://img.shields.io/badge/E--Commerce-3_Repos-4285F4?style=for-the-badge&logo=googlechrome)](https://github.com/s1hb888?tab=repositories)
+[![CMS Systems](https://img.shields.io/badge/CMS_Systems-2_Repos-FF6B6B?style=for-the-badge&logo=wordpress)](https://github.com/s1hb888?tab=repositories)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s1hb888&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1hb888&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1hb888&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s1hb888&theme=redical&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
-
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=s1hb888&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 💻 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/s1hb888/s1hb888/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1hb888&theme=radical" alt="Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s1hb888&theme=radical&utcOffset=5" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s1hb888&theme=radical" alt="Repos Per Language" />
-</div>
-
----
-
-## 🎯 Skills Visualization
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,php,laravel,html,css,bootstrap,tailwind,git,github,vscode,linux,docker,postman&perline=9" alt="Skills" />
-</p>
-
----
-
-## 💡 Quote of the Day
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
-
----
-
-## 🤝 Let's Connect and Collaborate!
+## 🤝 Connect With Me
 
 <div align="center">
   
@@ -190,84 +172,33 @@ I believe in writing clean, maintainable code that not only works but is also el
     <img src="https://img.shields.io/badge/Email-hudabibi888@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-  <a href="https://github.com/s1hb888" target="_blank">
+  <a href="https://github.com/s1hb888">
     <img src="https://img.shields.io/badge/GitHub-s1hb888-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
-  <a href="https://www.linkedin.com/in/hudda-bibi/" target="_blank">
+  <a href="https://www.linkedin.com/in/hudda-bibi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <a href="https://twitter.com/s1hb888" target="_blank">
+  <a href="https://twitter.com/s1hb888">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  
-  <a href="https://dev.to/s1hb888" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
 
+</div>
+
+<br>
+
+<div align="center">
+  <i>💼 Open to freelance opportunities and collaborations</i><br>
+  <i>🚀 Let's build something amazing together!</i>
 </div>
 
 ---
 
-## 📫 Open to Opportunities
-
 <p align="center">
-  <img src="./collaboration.gif" alt="Collaboration" width="50%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
-
-I'm always open to:
-- 🤝 Collaborating on innovative open-source projects
-- 💼 Freelance opportunities and interesting projects
-- 🎓 Mentoring and learning from fellow developers
-- 🌟 Contributing to meaningful software solutions
-
-**Feel free to reach out at: [hudabibi888@gmail.com](mailto:hudabibi888@gmail.com)**
-
----
-
-## 🌟 Profile Views
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=s1hb888&label=Profile%20Views&color=brightgreen&style=for-the-badge)
-  
-  ![Followers](https://img.shields.io/github/followers/s1hb888?label=Followers&style=for-the-badge&color=blue)
-  
-  ![Stars](https://img.shields.io/github/stars/s1hb888?label=Total%20Stars&style=for-the-badge&color=yellow)
-
-</div>
-
----
-
-## 🎵 Currently Listening To
-
-<div align="center">
-  
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-</div>
-
----
-
-### 🌟 Thank You for Visiting!
-
-<p align="center">
-  <img src="./thank-you.gif" alt="Thank You" width="40%">
-</p>
-
-<p align="center">
-  <i>⭐️ If you like my work, consider giving my repositories a star! ⭐️</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=24&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descAlignY=88&descAlign=50" width="100%"/>
-</p>
-
----
-
-<div align="center">
-  <i>Made with ❤️ by Hudda Bibi</i>
-  <br>
-  <i>Last Updated: January 2026</i>
+  <sub>Made with ❤️ by Hudda Bibi</sub>
 </div>
