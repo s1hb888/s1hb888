@@ -57,14 +57,6 @@ Welcome to my GitHub! I'm a passionate developer dedicated to turning innovative
 
 ## 📂 My Repositories
 
-<!-- 
-HOW TO UPDATE THIS SECTION:
-1. Go to: https://github.com/s1hb888?tab=repositories
-2. Copy your repository names and URLs
-3. Replace the examples below with your actual repos
-4. Update descriptions to match your projects
--->
-
 <div align="center">
 
 ### 🌟 Featured Projects
@@ -72,72 +64,76 @@ HOW TO UPDATE THIS SECTION:
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Repository Name 1</h3>
+<h3 align="center">PrepPal Admin Portal</h3>
 <div align="center">
-<a href="https://github.com/s1hb888/REPO-NAME-1" target="_blank">
-<img src="./project-mern.png" width="100%" alt="Project 1"/>
+<a href="https://github.com/s1hb888/admin-portal" target="_blank">
+<img src="./project-mern.png" width="100%" alt="PrepPal Admin Dashboard"/>
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/s1hb888/REPO-NAME-1" target="_blank">
+<a href="https://github.com/s1hb888/admin-portal" target="_blank">
 <img src="https://img.shields.io/badge/Code-View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
-<p><strong>JavaScript, React, Node.js</strong> - Brief description of what this project does</p>
+<p><strong>Admin Dashboard, Web Development</strong></p>
+<p>Admin Dashboard for PrepPal pre-school learning platform. Manages academic content, learning categories, quizzes, and user data with role-based access control.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Repository Name 2</h3>
+<h3 align="center">PrepPal Mobile App</h3>
 <div align="center">
-<a href="https://github.com/s1hb888/REPO-NAME-2" target="_blank">
-<img src="./project-ecommerce.png" width="100%" alt="Project 2"/>
+<a href="https://github.com/s1hb888/PrepPal_Fyp" target="_blank">
+<img src="./project-ecommerce.png" width="100%" alt="PrepPal Mobile Application"/>
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/s1hb888/REPO-NAME-2" target="_blank">
+<a href="https://github.com/s1hb888/PrepPal_Fyp" target="_blank">
 <img src="https://img.shields.io/badge/Code-View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
-<p><strong>React, Express, MongoDB</strong> - Brief description of what this project does</p>
+<p><strong>Mobile Development, Educational App</strong></p>
+<p>Pre-school learning mobile app for kids aged 3-5 featuring interactive modules for alphabets, numbers, colors, shapes, with quizzes and progress tracking.</p>
 </div>
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-<h3 align="center">Repository Name 3</h3>
+<h3 align="center">Property Selling Website</h3>
 <div align="center">
-<a href="https://github.com/s1hb888/REPO-NAME-3" target="_blank">
-<img src="./project-responsive.png" width="100%" alt="Project 3"/>
+<a href="https://github.com/s1hb888/web" target="_blank">
+<img src="./project-responsive.png" width="100%" alt="Property Website"/>
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/s1hb888/REPO-NAME-3" target="_blank">
+<a href="https://github.com/s1hb888/web" target="_blank">
 <img src="https://img.shields.io/badge/Code-View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
-<p><strong>HTML, CSS, JavaScript</strong> - Brief description of what this project does</p>
+<p><strong>HTML, CSS, Responsive Design</strong></p>
+<p>Static property-selling website showcasing frontend fundamentals, responsive design, and visual presentation for real estate listings.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Repository Name 4</h3>
+<h3 align="center">Flappy Bird Re-Engineering</h3>
 <div align="center">
-<a href="https://github.com/s1hb888/REPO-NAME-4" target="_blank">
-<img src="./project-api.png" width="100%" alt="Project 4"/>
+<a href="https://github.com/s1hb888/FlappyBirdTutorial" target="_blank">
+<img src="./project-api.png" width="100%" alt="Flappy Bird Project"/>
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/s1hb888/REPO-NAME-4" target="_blank">
+<a href="https://github.com/s1hb888/FlappyBirdTutorial" target="_blank">
 <img src="https://img.shields.io/badge/Code-View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
-<p><strong>Node.js, Express, API</strong> - Brief description of what this project does</p>
+<p><strong>Software Re-Engineering, Code Refactoring</strong></p>
+<p>Forked Flappy Bird project focusing on refactoring, removing code smells, and improving software design and maintainability.</p>
 </div>
 </td>
 </tr>
@@ -151,21 +147,13 @@ HOW TO UPDATE THIS SECTION:
 
 <div align="center">
 
-<!--
-INSTRUCTIONS: Replace these with your actual repository names and links
-Visit: https://github.com/s1hb888?tab=repositories
--->
-
-| Repository | Description | Language | Link |
-|------------|-------------|----------|------|
-| **repo-name-1** | Description of project | JavaScript | [View →](https://github.com/s1hb888/repo-1) |
-| **repo-name-2** | Description of project | React | [View →](https://github.com/s1hb888/repo-2) |
-| **repo-name-3** | Description of project | Node.js | [View →](https://github.com/s1hb888/repo-3) |
-| **repo-name-4** | Description of project | HTML/CSS | [View →](https://github.com/s1hb888/repo-4) |
-| **repo-name-5** | Description of project | JavaScript | [View →](https://github.com/s1hb888/repo-5) |
-| **repo-name-6** | Description of project | PHP | [View →](https://github.com/s1hb888/repo-6) |
-| **repo-name-7** | Description of project | C++ | [View →](https://github.com/s1hb888/repo-7) |
-| **repo-name-8** | Description of project | Java | [View →](https://github.com/s1hb888/repo-8) |
+| Repository | Description | Focus Area | Link |
+|------------|-------------|------------|------|
+| **admin-portal** | PrepPal Admin Dashboard for managing learning content and user data | Full-Stack, Dashboard | [View →](https://github.com/s1hb888/admin-portal) |
+| **PrepPal_Fyp** | Pre-school learning mobile app with interactive modules and quizzes | Mobile Development | [View →](https://github.com/s1hb888/PrepPal_Fyp) |
+| **web** | Static property-selling website using HTML & CSS | Frontend Design | [View →](https://github.com/s1hb888/web) |
+| **FlappyBirdTutorial** | Software re-engineering project with code refactoring | Code Quality | [View →](https://github.com/s1hb888/FlappyBirdTutorial) |
+| **SDA-Labs** | Software Design & Architecture lab exercises and implementations | Design Patterns | [View →](https://github.com/s1hb888/SDA-Labs) |
 
 <p>
 <a href="https://github.com/s1hb888?tab=repositories" target="_blank">
@@ -174,6 +162,22 @@ Visit: https://github.com/s1hb888?tab=repositories
 </p>
 
 </div>
+
+---
+
+## 🎓 Project Highlights
+
+### PrepPal Ecosystem (Final Year Project)
+A comprehensive pre-school learning platform consisting of:
+- **Mobile Application**: Interactive learning for kids aged 3-5
+- **Admin Dashboard**: Content management and progress monitoring
+- **Features**: Quizzes, audio learning, parent controls, progress tracking
+- **Technologies**: Mobile development, Web dashboard, Database management
+
+### Software Engineering Practices
+- **Code Refactoring**: Improving existing codebases and removing code smells
+- **Design Patterns**: Implementing software design principles and architectural patterns
+- **Web Development**: Building responsive and user-friendly interfaces
 
 ---
 
@@ -221,6 +225,7 @@ Visit: https://github.com/s1hb888?tab=repositories
 
 <div align="center">
   <i>💼 Open to freelance opportunities and collaborations</i><br>
+  <i>🎓 Passionate about educational technology and web development</i><br>
   <i>🚀 Let's build something amazing together!</i>
 </div>
 
