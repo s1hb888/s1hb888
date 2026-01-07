@@ -133,23 +133,23 @@ Welcome to my GitHub! I'm a passionate developer dedicated to turning innovative
 
 ---
 
-### 📚 All Repositories
+## 🎥 Project Demos
 
 <div align="center">
 
-| Repository | Description | Focus Area | Link |
-|------------|-------------|------------|------|
-| **admin-portal** | PrepPal Admin Dashboard for managing learning content and user data | Full-Stack, Dashboard | [View →](https://github.com/s1hb888/admin-portal) |
-| **PrepPal_Fyp** | Pre-school learning mobile app with interactive modules and quizzes | Mobile Development | [View →](https://github.com/s1hb888/PrepPal_Fyp) |
-| **web** | Static property-selling website using HTML & CSS | Frontend Design | [View →](https://github.com/s1hb888/web) |
-| **FlappyBirdTutorial** | Software re-engineering project with code refactoring | Code Quality | [View →](https://github.com/s1hb888/FlappyBirdTutorial) |
-| **SDA-Labs** | Software Design & Architecture lab exercises and implementations | Design Patterns | [View →](https://github.com/s1hb888/SDA-Labs) |
+### 📱 PrepPal Mobile App Demo
 
-<p>
-<a href="https://github.com/s1hb888?tab=repositories" target="_blank">
-<img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+https://github.com/s1hb888/s1hb888/assets/your-user-id/Mobile.mp4
+
+*Interactive mobile learning experience for pre-school kids*
+
+---
+
+### 🌐 Admin Portal Web Demo
+
+https://github.com/s1hb888/s1hb888/assets/your-user-id/Web.mp4
+
+*Content management dashboard for educational platform*
 
 </div>
 
