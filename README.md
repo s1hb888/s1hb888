@@ -139,9 +139,17 @@ Welcome to my GitHub! I'm a passionate developer dedicated to turning innovative
 
 ### 🌐 PrepPal Admin Portal Demo
 
-[Click here to view Web Portal Demo](./Web.mp4)
+<!-- To add video: Edit this README on GitHub, drag and drop Web.mp4 here, and GitHub will generate the proper URL -->
+
+https://github.com/user-attachments/assets/web-demo-video.mp4
 
 *Content management dashboard for the PrepPal educational platform*
+
+**Note:** To display the video properly:
+1. Edit this README.md file on GitHub
+2. Drag and drop your `Web.mp4` file in this section
+3. GitHub will automatically upload it and generate the correct embed code
+4. Save the changes
 
 </div>
 
