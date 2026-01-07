@@ -139,7 +139,7 @@ Welcome to my GitHub! I'm a passionate developer dedicated to turning innovative
 
 ### 🌐 PrepPal Admin Portal Demo
 
-https://github.com/s1hb888/s1hb888/assets/Web.mp4
+https://github.com/s1hb888/s1hb888/Web.mp4
 
 *Content management dashboard for the PrepPal educational platform*
 
