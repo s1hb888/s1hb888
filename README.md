@@ -85,7 +85,7 @@ Welcome to my GitHub! I'm a passionate developer dedicated to turning innovative
 <h3 align="center">PrepPal Mobile App</h3>
 <div align="center">
 <a href="https://github.com/s1hb888/PrepPal_Fyp" target="_blank">
-<img src="./project-ecommerce.png" width="100%" alt="PrepPal Mobile Application"/>
+<img src="./1.jpeg" width="100%" alt="PrepPal Mobile Application"/>
 </a>
 <br>
 <br>
