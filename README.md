@@ -147,16 +147,6 @@ A comprehensive pre-school learning platform consisting of:
 - **Design Patterns**: Implementing software design principles and architectural patterns
 - **Web Development**: Building responsive and user-friendly interfaces
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s1hb888&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1hb888&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
 
 ## 💡 Design Philosophy
 
