@@ -133,23 +133,15 @@ Welcome to my GitHub! I'm a passionate developer dedicated to turning innovative
 
 ---
 
-## 🎥 Project Demos
+## 🎥 Project Demo
 
 <div align="center">
 
-### 📱 PrepPal Mobile App Demo
+### 🌐 PrepPal Admin Portal Demo
 
-https://github.com/s1hb888/s1hb888/assets/your-user-id/Mobile.mp4
+[Click here to view Web Portal Demo](./Web.mp4)
 
-*Interactive mobile learning experience for pre-school kids*
-
----
-
-### 🌐 Admin Portal Web Demo
-
-https://github.com/s1hb888/s1hb888/assets/your-user-id/Web.mp4
-
-*Content management dashboard for educational platform*
+*Content management dashboard for the PrepPal educational platform*
 
 </div>
 
